@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucca Barcelos</h1>
-<h3 align="center">I'm a Software Engineering student at IBMEC in my 4th semester</h3>
+<h3 align="center">I'm a Software Engineering student at IBMEC in my 5th semester</h3>
 
 
 <br>
